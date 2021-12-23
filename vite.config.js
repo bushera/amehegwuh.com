@@ -6,6 +6,7 @@ module.exports = defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
+        studio: resolve(__dirname, 'studio/index.html'),
         
       }
     }
