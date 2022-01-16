@@ -1,4 +1,4 @@
-import './style.css'
+import './studio.css'
 
 document.querySelector('#studio').innerHTML = `
   <h1>Hello Vite!</h1>

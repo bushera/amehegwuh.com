@@ -7,6 +7,7 @@ module.exports = defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         studio: resolve(__dirname, 'studio/index.html'),
+        art: resolve(__dirname, 'art/index.html'),
         
       }
     }
