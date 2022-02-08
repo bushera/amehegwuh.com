@@ -11,6 +11,8 @@
     "vite": "^2.4.4"
   },
   "dependencies": {
-    "aos": "^2.3.4"
+    "aos": "^2.3.4",
+    "locomotive-scroll": "^4.1.4",
+    "materialize-css": "^1.0.0-rc.2"
   }
 }
